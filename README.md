@@ -26,7 +26,7 @@ https://data.bus-data.dft.gov.uk
 - SQLite
 - Scikit-learn
 - GitHub
-- (Optional) Streamlit for dashboard visualisation
+- Streamlit for dashboard visualisation
 
 ## Ethical and Legal Considerations
 This project uses open-access public datasets and does not involve personal or sensitive data. All data usage complies with GDPR and open data licensing guidelines.
