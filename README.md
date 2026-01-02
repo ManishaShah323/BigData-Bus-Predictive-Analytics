@@ -33,5 +33,5 @@ This project uses open-access public datasets and does not involve personal or s
 
 ## Author
 **Manisha Kumari Shah**  
-BSc Computing – Second Year  
+BSc Computer Science with Artificial Intelligence  – Second Year  
 Softwarica College of IT & E-Commerce
