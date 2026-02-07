@@ -33,7 +33,7 @@ The project uses open-access GTFS datasets obtained from the UK Bus Open Data Se
 - **Route Shapes** – geographic route paths  
 
 **Data Source:**  
-UK Bus Open Data Service (BODS)  
+UK Bus Open Data Service (BODS/GTFS)  
 https://www.bus-data.dft.gov.uk/
 
 
